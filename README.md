@@ -1,4 +1,4 @@
-# Workshop: Build an IoT Temperature Sensor with MongoDB Stitch & ElectricImp
+# Build an IoT Temperature Sensor with MongoDB Stitch & ElectricImp
 
 ## What We’ll Build
 
