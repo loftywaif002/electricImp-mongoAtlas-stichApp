@@ -70,12 +70,6 @@ After powering on the board, use the ElectricImp app to [blink up](https://elect
 
 **NOTE**
 
-For this lab we will be using the following wi-fi:
-
-**Network**: xgen_public
-
-**Password**: mongodbatlas
-
 For more information or troubleshooting, see the [impExplorer Getting Started Guide](https://electricimp.com/docs/gettingstarted/explorer/account/).
 
 #### Deploying the Code
