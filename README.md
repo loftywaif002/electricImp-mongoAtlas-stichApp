@@ -134,7 +134,7 @@ To add code onto the device do the following:
 
 ### **B. Create and Import a new Stitch Application**
 
-All of the Stitch components needed to run the dashboard app are available in the [Stitch-ElectricImp Lab Code](http://bit.ly/StitchImp).
+All of the Stitch components needed to run the dashboard app are available in the [Stitch-ElectricImp Lab Code](https://bit.ly/2Hvfs2C).
 
 The TempApptemperature-lab directory contains configurations for the following Stitch entities:
 
