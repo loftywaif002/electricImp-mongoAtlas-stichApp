@@ -46,7 +46,7 @@ You’ll need the following prerequisites before beginning this tutorial:
 
 * Node.js version 6.0.0 or newer. See the [Node.js docs](https://nodejs.org/en/download/) for installation instructions.
 
-* A copy of the [Stitch-ElectricImp Lab Code](http://bit.ly/StitchImp)
+* A copy of the [Stitch-ElectricImp Lab Code](https://bit.ly/2Hvfs2C)
 
 * (Optional) A copy of [MongoDB Compass Community Edition](https://www.mongodb.com/download-center#compass) (to view your MongoDB Atlas data)
 
